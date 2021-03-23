@@ -1,0 +1,36 @@
+body{
+    background-color: darkkhaki;
+}
+.header{
+    margin-top: 0%;
+    background-color: brown;
+    height:60px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 2px 2px 4px brown;
+}
+#inputTxt,
+#outputTxt{
+    display: block;
+    margin: 1rem auto;
+    padding: 1rem;
+    max-width: 800px;
+    width: 60%;
+    height: 30vh;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+#btn-trans{
+    border: none;
+    padding: 0.8rem 1.3rem;
+    background-color: brown;
+    border-radius: 5px;
+    outline: none;
+    color:darkkhaki;
+    display: block;
+    margin: auto;
+    font-size: large;
+}
